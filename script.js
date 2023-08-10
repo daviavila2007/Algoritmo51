@@ -10,3 +10,6 @@ function maioridade() {
     document.getElementById("r").innerHTML = maioridade
     document.getElementById("r2").innerHTML = media
 }
+function Voltar(){
+    window.location.href = "index.html"
+}
